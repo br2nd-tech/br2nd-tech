@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**br2nd-tech/br2nd-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# br2nd.tech
 
-Here are some ideas to get you started:
+**TypeScript product developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build the interface people touch, the admin teams control, and the workflows that make both useful.
+
+[Explore the interactive portfolio →](https://br2nd-tech.github.io)
+
+</div>
+
+## What I build
+
+- Product interfaces with **TypeScript, React, Svelte and Tailwind**
+- Custom admin systems that ship with the product
+- Catalogs, booking flows, QR confirmation and operational dashboards
+
+## Selected production work
+
+| Project | What shipped |
+| --- | --- |
+| [BKS24](https://bks24.by/) | Corporate platform |
+| [Fintherm](https://fintherm.com.ru/) | Content-managed site |
+| [The One](https://the-one.ru/) | Product catalog with a custom CMS |
+
+## Current build
+
+An anonymised ticketing platform: booking, QR validation at entry and sales analytics in one operational dashboard.
+
+## Contact
+
+Open to selected freelance builds and product collaborations.
